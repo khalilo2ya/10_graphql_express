@@ -160,7 +160,4 @@ You can use the GraphiQL interface to interact with your GraphQL server. To open
 - `index.js`: Contains the server setup and GraphQL schema definition.
 - `package.json`: Lists the project dependencies and scripts.
 
-### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
