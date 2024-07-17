@@ -18,7 +18,7 @@ This project demonstrates a basic setup of a GraphQL server using Node.js, Expre
 
    ```bash
    git clone https://github.com/khalilo2ya/10_graphql_express.git
-  ```
+   ```
    ```bash
    cd 10_graphql_express
    ```
