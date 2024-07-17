@@ -1,6 +1,6 @@
 Sure! Here's a `README.md` file that explains the GraphQL setup based on the provided code and includes an image reference.
 
-```markdown
+
 # GraphQL API Example
 
 This project demonstrates a basic setup of a GraphQL server using Node.js, Express, and the `express-graphql` library. The server provides an API for querying `User` and `Post` data.
