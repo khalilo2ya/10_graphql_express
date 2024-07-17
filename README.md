@@ -17,7 +17,7 @@ This project demonstrates a basic setup of a GraphQL server using Node.js, Expre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/10_graphql_express.git
+   git clone https://github.com/khalilo2ya/10_graphql_express.git
    cd 10_graphql_express
    ```
 
@@ -151,7 +151,7 @@ const posts = [
 
 You can use the GraphiQL interface to interact with your GraphQL server. To open GraphiQL, navigate to `http://localhost:4000/graphql` in your web browser.
 
-![GraphiQL Interface](captures/example.png)
+![GraphiQL Interface](captures/example.PNG)
 
 ### Project Structure
 
