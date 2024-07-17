@@ -17,8 +17,8 @@ This project demonstrates a basic setup of a GraphQL server using Node.js, Expre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/graphql-api-example.git
-   cd graphql-api-example
+   git clone https://github.com/your-username/10_graphql_express.git
+   cd 10_graphql_express
    ```
 
 2. Install the dependencies:
