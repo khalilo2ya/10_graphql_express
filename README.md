@@ -155,7 +155,7 @@ You can use the GraphiQL interface to interact with your GraphQL server. To open
 
 ### Project Structure
 
-- `server.js`: Contains the server setup and GraphQL schema definition.
+- `index.js`: Contains the server setup and GraphQL schema definition.
 - `package.json`: Lists the project dependencies and scripts.
 
 ### License
